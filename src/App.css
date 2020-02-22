@@ -1,0 +1,24 @@
+/* Card */
+.c-img {
+    margin-top: 15px;
+    width: 60px;
+}
+.mycard {
+    margin-top: 50px;
+}
+.card {
+    min-width: 199px!important;
+    margin-bottom: 60px!important;
+}
+/* Spinner */
+.spinner {
+    margin: auto;
+    display: block;
+    width: 65px;
+}
+/* Search */
+.searchbox {
+    max-width: 300px;
+    margin: auto;
+    margin-top: 30px;
+}
